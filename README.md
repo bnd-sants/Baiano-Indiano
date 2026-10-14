@@ -97,15 +97,6 @@
 - ⚔️ **Task App Gamificado:** um gerenciador de tarefas inspirado no sistema do anime *Solo Leveling*.
 
 ---
-### ⚡ Sobre Mim
-
-* 📍 Baseado em **Belém do Pará, Brasil**.
-* 💼 Atuo como **Freelancer** focado em automação e desenvolvimento de software sob medida.
-* 🧠 **Personalidade ENFP:** Racional e focado arquitetando código, mas extremamente comunicativo e animado no trabalho em equipe.
-* ⏱️ Utilizo o framework **GSD (Get Stuff Done)** para guiar minha produtividade e gerenciamento de projetos.
-* 🏋️ Fora das telas, você me encontra treinando calistenia (foco em Full Body), andando de skate, montando/pesquisando setups de PC ou cuidando dos meus Agapornis.
-
----
 
 <div align="center">
 
