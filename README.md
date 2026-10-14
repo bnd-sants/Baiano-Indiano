@@ -93,9 +93,6 @@
   </tr>
 </table>
 
-### 🚧 Em Desenvolvimento
-- ⚔️ **Task App Gamificado:** um gerenciador de tarefas inspirado no sistema do anime *Solo Leveling*.
-
 ---
 
 <div align="center">
